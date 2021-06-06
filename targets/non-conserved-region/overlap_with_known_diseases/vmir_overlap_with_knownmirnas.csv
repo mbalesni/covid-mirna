@@ -1,0 +1,12 @@
+Accession	ID	Query start	Query end	Subject start	Subject end	Strand	Score	Evalue	Alignment
+MIMAT0033120	ppc-miR-8364g-3p	27	46	4	23	-	73	1.5	Align
+MIMAT0012240	dps-miR-994-3p	8	23	1	16	+	71	2.2	Align
+MIMAT0020894	dme-miR-994-3p	8	23	1	16	+	71	2.2	Align
+MIMAT0035607	dvi-miR-994-3p	8	23	1	16	+	71	2.2	Align
+MIMAT0016328	ahy-miR408-5p	23	43	1	21	-	69	3.2	Align
+MIMAT0019855	hsa-miR-4732-5p	30	50	1	21	-	69	3.2	Align
+MIMAT0025289	hbr-miR408b	23	43	2	22	-	69	3.2	Align
+MIMAT0045031	pab-miR11483	77	97	1	21	+	69	3.2	Align
+MIMAT0012097	sme-miR-7b-3p	18	36	5	23	+	68	3.9	Align
+MIMAT0030424	hsa-miR-7849-3p	39	55	2	18	-	67	4.7	Align
+MIMAT0040696	hpo-miR-10071-3p	52	68	1	17	+	67	4.7	Align

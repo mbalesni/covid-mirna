@@ -1,0 +1,7 @@
+Pre-miRNA,Mutation ID,Position,Ref/Alt,Disease,Region,Mature miRNA,G,Exp,Source,
+hsa-mir-1272,COSN1081476,chr15:64762412,G/A,endometrium;carcinoma,pre-miRNA,-,2.6,down,COSMIC
+hsa-mir-1272,COSN1081475,chr15:64762480,T/C,endometrium;carcinoma,Mature,hsa-miR-1272,0,up,COSMIC
+hsa-mir-1272,COSN19395611,chr15:64762483,C/T,prostate;carcinoma,Mature,hsa-miR-1272,5.5,down,COSMIC
+hsa-mir-1272,COSN26991829,chr15:64762497,G/A,large intestine;carcinoma(PMID:27149842),pre-miRNA,-,2.5,down,COSMIC
+hsa-mir-1272,COSN4710431,chr15:64762497,G/A,endometrium;carcinoma,pre-miRNA,-,2.5,down,COSMIC
+hsa-mir-1272,COSN2378591,chr15:64762506,T/C,lung;carcinoma,pre-miRNA,-,1.2,up,COSMIC

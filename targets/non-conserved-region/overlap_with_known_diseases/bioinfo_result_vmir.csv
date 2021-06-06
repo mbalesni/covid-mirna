@@ -1,0 +1,2 @@
+Pre-miRNA,Mutation ID,Position,Ref/Alt,Disease,Region,Mature miRNA,G,Exp,Source
+hsa-mir-7849,COSN26261358,chr4:146408636,A/C,prostate;carcinoma,pre-miRNA,-,0.00,up,COSMIC
